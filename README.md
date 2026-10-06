@@ -8,7 +8,7 @@ Ejercicios, prácticas, PEC y apuntes propios de la asignatura, realizados con e
 - `pecs/`: trabajos de evaluación, organizados por entrega o ejercicio.
 - `apuntes/`: notas y resúmenes propios.
 
-El primer ejemplo está en [`Ejecricios/Ej1.cpp`](Ej1.cpp): muestra cinco datos por pantalla. Los datos de la versión publicada son ficticios.
+El primer ejemplo está en [Ejecricios/Ej1.cpp] muestra cinco datos por pantalla. Los datos de la versión publicada son ficticios.
 
 ## Compilar y ejecutar
 
